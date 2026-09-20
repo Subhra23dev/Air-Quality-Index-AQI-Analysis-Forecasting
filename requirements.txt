@@ -1,0 +1,14 @@
+# Data loading & cleaning
+pandas
+# Numerical operations
+numpy
+# Visualization
+matplotlib
+# EDA & statistical plots
+seaborn
+# Evaluation & preprocessing
+scikit-learn
+# ARIMA forecasting
+statsmodels
+# Time-series forecasting
+prophet

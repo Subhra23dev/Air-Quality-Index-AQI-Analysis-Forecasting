@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python environment files
+.python-version
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Generated outputs
+outputs/*.csv
+outputs/*.xlsx
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Secrets / environment variables
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+
+# Model files
+*.pkl
+*.pickle
+*.joblib
+
+# Prophet / forecasting temporary files
+*.json
+
+# Local files
+*.bak
+*.swp
